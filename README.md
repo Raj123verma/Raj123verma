@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Animated Wave Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7B2FF7&height=220&section=header&text=Bhavtosh%20Pathak&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20MERN%20Developer%20%7C%20Java%20Developer%20%7C%20DSA%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7B2FF7&height=220&section=header&text=Raj%20Verma&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20MERN%20Developer%20%7C%20Java%20Developer%20%7C%20DSA%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Bhavtosh+%F0%9F%91%8B;Full+Stack+MERN+Developer+%F0%9F%92%BB;Java+Developer+%E2%98%95;DSA+%26+Problem+Solving+Enthusiast+%F0%9F%A7%A0;Aspiring+SDE+at+a+Top+Product+Company+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Raj+%F0%9F%91%8B;Full+Stack+MERN+Developer+%F0%9F%92%BB;Java+Developer+%E2%98%95;DSA+%26+Problem+Solving+Enthusiast+%F0%9F%A7%A0;Aspiring+SDE+at+a+Top+Product+Company+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
@@ -15,16 +15,16 @@
 <br/><br/>
 
 <!-- Social Badges -->
-<a href="https://github.com/bhavtosh-pathak">
-  <img src="https://img.shields.io/github/followers/bhavtosh-pathak?label=Followers&style=for-the-badge&color=00F7FF&labelColor=1a1a2e" />
+<a href="https://github.com/Raj123verma">
+  <img src="https://img.shields.io/github/followers/Raj123verma?label=Followers&style=for-the-badge&color=00F7FF&labelColor=1a1a2e" />
 </a>
-<a href="https://github.com/bhavtosh-pathak">
-  <img src="https://komarev.com/ghpvc/?username=bhavtosh-pathak&label=Profile%20Views&color=7B2FF7&style=for-the-badge" />
+<a href="https://github.com/Raj123verma">
+  <img src="https://komarev.com/ghpvc/?username=Raj123verma&label=Profile%20Views&color=7B2FF7&style=for-the-badge" />
 </a>
-<a href="https://www.linkedin.com/in/bhavtosh-pathak-8289b0294/">
+<a href="https://www.linkedin.com/in/raj-verma-48a715322/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://leetcode.com/u/bhavtoshpathak/">
+<a href="https://leetcode.com/u/rRfhq4gv2o/">
   <img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 
@@ -130,18 +130,18 @@ Goal:          Become an SDE at a top product-based company 🚀
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=bhavtosh-pathak&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=bhavtosh-pathak&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Raj123verma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Raj123verma&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavtosh-pathak&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raj123verma&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhavtosh-pathak&theme=tokyo-night&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Raj123verma&theme=tokyo-night&hide_border=true" width="95%"/>
 
 </div>
 
 <!-- Contribution Snake Animation -->
 <div align="center">
-<img src="https://raw.githubusercontent.com/bhavtosh-pathak/bhavtosh-pathak/output/github-contribution-grid-snake.svg" width="95%" />
+<img src="https://raw.githubusercontent.com/Raj123verma/Raj123verma/output/github-contribution-grid-snake.svg" width="95%" />
 
 <sub>⚙️ To enable the snake animation above, add the <code>generate-snake.yml</code> GitHub Action from <a href="https://github.com/Platane/snk">Platane/snk</a> to this repository.</sub>
 </div>
@@ -156,53 +156,6 @@ Goal:          Become an SDE at a top product-based company 🚀
 |:---:|:---:|:---:|:---:|
 | Consistently solving DSA problems on LeetCode to strengthen problem-solving skills | Designing and shipping full-stack applications end-to-end | Constantly upskilling in backend, system design & cloud | Learning to explore and contribute to open-source projects |
 
-</div>
-
-<br/>
-
-## 💼 Featured Projects
-
-<table width="100%">
-<tr>
-<td width="100%">
-
-### 📱 ShramSetu — Skilled Worker Booking App
-
-> A cross-platform mobile application connecting customers with skilled workers such as electricians, plumbers, carpenters, and painters.
-
-**✨ Key Features**
-- 🔐 Secure user authentication (Email/Phone) via Firebase Authentication
-- ☁️ Real-time data storage & sync using Cloud Firestore
-- 🖼️ Profile & service media management with Firebase Storage
-- 📋 Worker profile management, service booking & job request tracking
-- ⚡ Scalable, serverless backend with real-time updates and minimal maintenance
-- 🎨 Clean, responsive, and user-friendly interface
-
-**🛠️ Tech Stack**
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Firestore](https://img.shields.io/badge/Cloud_Firestore-FFA000?style=flat-square&logo=firebase&logoColor=white)
-![Firebase Auth](https://img.shields.io/badge/Firebase_Auth-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
-<p>
-<a href="https://github.com/bhavtosh-pathak/shramsetu">
-  <img src="https://img.shields.io/badge/📂_Repository-View_Code-24292E?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/🚀_Live_Demo-Coming_Soon-4CAF50?style=for-the-badge" />
-</a>
-</p>
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-<sub>💡 More full-stack MERN & Java projects coming soon — stay tuned!</sub>
 </div>
 
 <br/>
@@ -262,7 +215,7 @@ Goal:          Become an SDE at a top product-based company 🚀
 
 <div align="center">
 
-<a href="https://leetcode.com/u/bhavtoshpathak/">
+<a href="https://leetcode.com/u/rRfhq4gv2o/">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 <a href="#">
@@ -277,7 +230,7 @@ Goal:          Become an SDE at a top product-based company 🚀
 
 <br/><br/>
 
-<img src="https://leetcard.jacoblin.cool/bhavtoshpathak?theme=dark&font=baloo2&ext=heatmap" width="500"/>
+<img src="https://leetcard.jacoblin.cool/rRfhq4gv2o?theme=dark&font=baloo2&ext=heatmap" width="500"/>
 
 </div>
 
@@ -299,16 +252,13 @@ Goal:          Become an SDE at a top product-based company 🚀
 
 <div align="center">
 
-<a href="https://github.com/bhavtosh-pathak">
+<a href="https://github.com/Raj123verma">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/bhavtosh-pathak-8289b0294/">
+<a href="https://www.linkedin.com/in/raj-verma-48a715322/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:bhavtoshpathak@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://leetcode.com/u/bhavtoshpathak/">
+<a href="https://leetcode.com/u/rRfhq4gv2o/">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 
