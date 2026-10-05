@@ -160,6 +160,64 @@ Goal:          Become an SDE at a top product-based company 🚀
 
 <br/>
 
+## 💼 Featured Projects
+
+<table width="100%">
+<tr>
+<td width="100%">
+
+### 🔐 VaultEx — Automated Backup & Recovery Manager
+
+> A Java-based automated backup and recovery manager designed to improve data protection and simplify recovery operations.
+
+**✨ Key Features**
+- 🗓️ Automated backup scheduling for hands-free data protection
+- 📁 Reliable file management and handling for backup operations
+- ♻️ Recovery workflows to restore data quickly and safely
+- ✅ Validation of both backup and recovery operations
+- 🧱 Object-Oriented design with modularity, encapsulation, abstraction, and reusable components
+- 🌐 REST API-based communication using HTTP methods and JSON for structured data exchange between components
+- 🗄️ Database concepts applied to store and manage application metadata and backup-related information
+- 🛡️ Strong error management and maintainable backend architecture
+
+**🛠️ Tech Stack**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=fastapi&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-4B32C3?style=flat-square)
+![HTTP](https://img.shields.io/badge/HTTP_Methods-009688?style=flat-square)
+![Database](https://img.shields.io/badge/Database_Concepts-4479A1?style=flat-square&logo=databricks&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+**🏷️ Tags**
+
+![Backup](https://img.shields.io/badge/Backup-Automation-blueviolet?style=flat-square)
+![Recovery](https://img.shields.io/badge/Data-Recovery-00F7FF?style=flat-square)
+![Backend](https://img.shields.io/badge/Backend-Architecture-339933?style=flat-square)
+![File Handling](https://img.shields.io/badge/File-Handling-orange?style=flat-square)
+![Error Handling](https://img.shields.io/badge/Error-Management-red?style=flat-square)
+
+<p>
+<a href="https://github.com/Raj123verma/VaultEx">
+  <img src="https://img.shields.io/badge/📂_Repository-View_Code-24292E?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/🚀_Live_Demo-Coming_Soon-4CAF50?style=for-the-badge" />
+</a>
+</p>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<sub>💡 More full-stack MERN & Java projects coming soon — stay tuned!</sub>
+</div>
+
+<br/>
+
 ## 🎓 Learning Journey
 
 <table width="100%">
